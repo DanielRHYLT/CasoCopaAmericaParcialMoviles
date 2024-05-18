@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Caso copa america</string>
+    <string name="iniciarText">GET STARTED</string>
+    <string name="btnSignInTxt">SIGN IN</string>
+    <string name="btnPreciosTxt">PRIZES</string>
+    <string name="btnTeamsTxt">TEAMS</string>
+    <string name="btnStadiumsTxt">STADIUMS</string>
+    <string name="btncalculateTxt">CALCULATE</string>
+    <string name="btnCalculateTxt">CALCULATE</string>
+    <string name="btnGoToMenu">GO TO MENU</string>
+    <string name="btnGoToMenuTxt">GO TO MENU</string>
+</resources>
